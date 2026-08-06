@@ -180,11 +180,12 @@ nav{-webkit-transform:translateX(-50%) translateZ(0);transform:translateX(-50%) 
 .menue a{display:block;padding:15px 18px;border-radius:14px;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:#DCEFF4}
 .menue a:active,.menue a:hover{background:rgba(255,255,255,.08);color:#fff}
 @media(max-width:820px){
-  nav{left:12px;right:12px;transform:none;-webkit-transform:none;width:auto;max-width:none;justify-content:flex-start}
+  nav{left:12px;right:12px;transform:none;-webkit-transform:none;width:auto;max-width:calc(100vw - 24px);
+    box-sizing:border-box;justify-content:flex-start;overflow:hidden}
   .punkte{display:none}
-  .burger{display:none;width:40px;height:40px;border-radius:12px;border:1px solid rgba(255,255,255,.22);cursor:pointer;background:rgba(255,255,255,.08);align-items:center;justify-content:center;flex-direction:column;gap:4px;padding:0;margin-left:4px}
-  nav{gap:4px;padding:8px 8px 8px 12px;width:calc(100% - 28px)}
-  nav .knopf.klein{margin-left:auto}
+  .burger{display:flex}
+  nav{gap:4px;padding:8px 8px 8px 12px}
+  nav .knopf.klein{margin-left:auto;font-size:10.5px;letter-spacing:.1em;padding:9px 14px}
   header{padding-top:112px}
   .hero-glas{padding:30px 22px}
   section{padding:70px 0}
