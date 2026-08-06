@@ -1,0 +1,14 @@
+{
+  "name": "WISHES4YOU",
+  "short_name": "WISHES4YOU",
+  "description": "Deine Wünsche werden zum Geschenk.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#04222A",
+  "theme_color": "#04222A",
+  "lang": "de",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

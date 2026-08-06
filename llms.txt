@@ -1,0 +1,22 @@
+# WISHES4YOU
+
+> Deine Wünsche werden zum Geschenk. WISHES4YOU sammelt Videobotschaften von vielen Menschen und macht daraus eine persönliche Seite für den Beschenkten.
+
+## So funktioniert es
+- Der Ersteller legt einen Anlass an: für wen, wozu, wann die Seite online geht.
+- Er verschickt einen Einladungslink. Eingeladene brauchen kein Konto.
+- Eingeladene nehmen mit dem Handy ein kurzes Video auf oder laden eines aus dem Album hoch.
+- Der Ersteller sieht jeden Beitrag zuerst und gibt ihn einzeln frei.
+- Zum gesetzten Zeitpunkt öffnet sich die Seite für den Beschenkten.
+
+## Anlässe
+Geburtstag, Hochzeit, Geburt, Genesung, Abschluss, Abschied, Jubiläum, Einschulung, Beileid.
+
+## Wichtige Eigenschaften
+- Kein Konto für Gratulanten, ein Link genügt.
+- Nichts wird gezeigt, bevor der Ersteller es freigegeben hat.
+- Die Seite ist nicht öffentlich auffindbar und wird nicht in Suchmaschinen gelistet.
+- Videos sind auf etwa eine Minute begrenzt.
+
+## Kontakt
+https://wishes4you.com/

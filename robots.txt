@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wishes4you.com/sitemap.xml
